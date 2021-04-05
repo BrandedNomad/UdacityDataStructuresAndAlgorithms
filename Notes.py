@@ -17,7 +17,8 @@
 #    a. What are the desired outputs
 # 3. Consider the Transformations
 #    a. What is the relationship between inputs and outputs?
-#    b. Work through some examples by hand (psuedocode)?
-#    c. Which cases are not being handled?
-# 4. Create simple mechanical solution
+#    b. Write some examples (test cases)
+# 4. Create simple mechanical solution (psuedocode)
+# 5. Develop solution incrementally and test as you go
+
 
